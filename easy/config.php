@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://172.16.115.128/easy';
+    const BASE_URL      = 'http://192.168.14.14:8080/reservasLinuxh/easy';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -41,7 +41,7 @@ class Config {
     const DB_HOST       = 'localhost';
     const DB_NAME       = 'easyappointment';
     const DB_USERNAME   = 'root';
-    const DB_PASSWORD   = '123456789';
+    const DB_PASSWORD   = '';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
